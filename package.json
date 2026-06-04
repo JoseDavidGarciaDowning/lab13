@@ -1,0 +1,7 @@
+{
+  "name": "lab13",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Analizador de archivos de texto con APIs nativas de Node.js",
+  "main": "analizar.js"
+}

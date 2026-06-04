@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Archivos generados por el script (salida, no fuente)
+resumen.txt
+
+# Herramientas locales del agente
+.atl/
+
+# Sistema operativo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
